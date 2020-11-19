@@ -14,7 +14,7 @@ Bot V1 Finished.
 
 - Spliting functions to another py file.
 
-- Complete roles.json file
+- Complete roles.json file.
 
 - Complete splitRoles function
 
